@@ -9,4 +9,9 @@ A Responsive cooking recipe social media, flutter application. The user can look
 This flutter application was developed to run on Android, IOS, and Web. The project was instructed by Raywenderlich's Flutter Apprentice Course, created and taught in partnership with Googles Flutter Development Team.
 
 
+Get assests here at this link https://drive.google.com/drive/folders/1nhk65SIN9ejiIszFrdS7OTI8ljgmfiVU?usp=sharing (Not enough space on github)
+
+Disclaimer: Notify if in need for more code for this project
+
 ![chrome_kU7GhIuZtC](https://user-images.githubusercontent.com/40523361/153550833-8f3a1730-cc4b-4d93-a1a4-7a946170762a.gif)
+
